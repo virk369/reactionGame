@@ -18,6 +18,7 @@ input {
 }
 .inputD {
   margin-bottom: 40px;
+    font-size: 20px;
 }
 input.button {
   height: 5em;
