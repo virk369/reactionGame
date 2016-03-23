@@ -2,4 +2,41 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #f1f1f1;
+}
+
+input {
+  font-family: Helvetica, sans-serif;
+
+}
+
+.bottom {
+  margin-left: 5%;
+}
+.input {
+  padding: 5px 0 5px 15px;
+}
+.inputD {
+  margin-bottom: 40px;
+}
+input.button {
+  height: 5em;
+  width: 300px;
+  background-color: #545454;
+  color: white;
+  font-size: 20px;
+
+}
+
+input.buttonNew {
+  width: 200px;
+  height: 40px;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
 }
